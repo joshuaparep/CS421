@@ -28,7 +28,7 @@ function getLocations() {
 }
 
 function getRouteIDs(o) {
-    
+    var a = 'aaa'
     var query = `
 SELECT a.R_ID
 FROM HAS a, HAS b, LOCATION c, LOCATION d
@@ -42,4 +42,4 @@ AND a.TIME < b.TIME
     
 }
 
-module.exports = {getSqlTable, getLocations, getRoute}
+module.exports = {getSqlTable, getLocations}
