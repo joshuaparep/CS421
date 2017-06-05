@@ -1,0 +1,38 @@
+{
+	"name" : "hilobus",
+	"version" : "1.0",
+	"description" : "A simple web server to host a better bus schedule!",
+	"main" : "server.js",
+	"scripts" : {
+		"start" : "server.js"
+	},
+	"dependencies" : {
+		"express": "*",
+		"express-handlebars": "*",
+		"tedious": "*",
+		"tedious-promises": "*",
+		"node-datetime": "*",
+		"body-parser": "*"
+	},
+	"engines": {
+		"node": "^4.0.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/joshuaparep/CS421"
+	},
+	"keywords": [
+		"node",
+		"express",
+		"hilo",
+		"hilobus"
+	],
+	"author": {
+		"Matthew Brown",
+		"Danielle Pulido",
+		"Joshua Parep",
+		"Morgan Friend"
+	},
+	"license": "GPL"
+}
+		
