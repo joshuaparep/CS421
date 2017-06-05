@@ -27,12 +27,12 @@
 		"hilo",
 		"hilobus"
 	],
-	"author": {
-		"Matthew Brown",
-		"Danielle Pulido",
-		"Joshua Parep",
-		"Morgan Friend"
-	},
+	"author": "Matthew Brown",
+	"contributors": [
+		"Danielle Pulido <dpulido@hawaii.edu>",
+		"Joshua Parep <parep@hawaii.edu>",
+		"Morgan Friend <mfriend@hawaii.edu>"
+	],
 	"license": "GPL"
 }
 		
