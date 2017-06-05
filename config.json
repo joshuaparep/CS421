@@ -1,6 +1,6 @@
 {
-	"userName": "ptaadmin",
-	"password": "h!l0busP7A!",
+	"userName": "<insert user here>",
+	"password": "<insert pass here>",
 	"server": "ptabus.database.windows.net",
 	"options": {
 		"encrypt": true,

@@ -1,0 +1,41 @@
+{
+  "name": "hilobus",
+  "version": "1.0.0",
+  "description": "A simple web server to host a better bus schedule!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "express-handlebars": "*",
+    "tedious": "*",
+    "tedious-promises": "*",
+    "node-datetime": "*",
+    "body-parser": "*"
+  },
+  "engines": {
+    "node": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkb0517/CS421.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "hilo",
+    "hilobus"
+  ],
+  "author": "Matthew Brown",
+  "contributors": [
+    "Danielle Pulido <dpulido@hawaii.edu>",
+    "Joshua Parep <parep@hawaii.edu>",
+    "Morgan Friend <mfriend@hawaii.edu>"
+  ],
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mkb0517/CS421/issues"
+  },
+  "homepage": "https://github.com/mkb0517/CS421#readme"
+}
