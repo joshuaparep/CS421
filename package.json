@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mkb0517/CS421.git"
+    "url": "git+https://github.com/joshuaparep/CS421.git"
   },
   "keywords": [
     "node",
@@ -35,7 +35,7 @@
   ],
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/mkb0517/CS421/issues"
+    "url": "https://github.com/joshuaparep/CS421/issues"
   },
-  "homepage": "https://github.com/mkb0517/CS421#readme"
+  "homepage": "https://github.com/joshuaparep/CS421#readme"
 }
